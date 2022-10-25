@@ -18,7 +18,7 @@
         <div class="nav">
             <nav>
                 <div class="logo">
-                    <img src="/images/Logo.png" alt="logo" />
+                    <img src="/VigorousyT02/vigorousyt.wakecup.project/images/Logo.png" alt="logo" />
                 </div>
                 <div class="navigation">
                     <ul>
